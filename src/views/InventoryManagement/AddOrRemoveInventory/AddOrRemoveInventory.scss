@@ -1,0 +1,15 @@
+.add-inventory-wrapper {
+    .inv-select {
+        margin-right: 10px;
+    }
+    .card-title {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .inv-update-toss {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+    }
+}
